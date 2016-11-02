@@ -1,1 +1,0 @@
-First steps to knowing GIT
